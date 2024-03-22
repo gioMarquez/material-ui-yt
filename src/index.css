@@ -8,8 +8,8 @@ import '@fontsource/roboto/700.css'; */
 @tailwind utilities;
 
 
-@layer base {
+/* @layer base {
   .title{
     @apply text-3xl font-semibold
   }
-}
+} */
